@@ -6,6 +6,6 @@ print("Hello every one")
 
 print("hello ppl")
 
-print("Hello from MAIN")
+print("Hello from thr")
 
 print("Hello From Harshit")
